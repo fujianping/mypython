@@ -1,2 +1,0 @@
-# mypython
-my my my
